@@ -1,1 +1,1 @@
-pygpame==2.0.0
+pygame==2.0.0
